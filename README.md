@@ -1,3 +1,19 @@
-# My Awesome Book
+# 少年游
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## 如梦似幻，似假若真
+
+陌上草凄凄，
+小亭淅淅雨。
+春燕口衔泥，
+转眼昨日事。
+不在南，只在北
+处处晶莹雪，
+怎抵得
+旧年亭边海棠树、蝉叫知了。
+我劝多缱绻。
+若是蝉儿别去，
+万般美景，
+千般风情，
+诉与空蝉听！
+
+《停蝉》
